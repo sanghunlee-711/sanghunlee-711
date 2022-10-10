@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 
 <div align=center>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghunlee-711&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghunlee-711&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+-->
+- 🔭 I’m currently working on [Oysterable](http://oysterable.com/)
+- 🌱 I’m currently studying algorithm
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghunlee-711&count_bg=%23EEF1EC&title_bg=%232360AC&icon=&icon_color=%23F7ECEC&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
   
